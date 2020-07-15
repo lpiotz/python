@@ -7,3 +7,4 @@ result = 2**3
 print ("2**3 =", result)
 
 print("Challenge complete")
+print("Challenge complete")
